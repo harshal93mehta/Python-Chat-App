@@ -15,3 +15,7 @@ Clone/download the repo to your local system
 5) Type any messages and hit Enter key or Send button to send messages. 
 
 6) To quit anytime, type {quit} and hit enter.
+
+
+Credits: This app was made by following this tutorial...
+https://medium.com/swlh/lets-write-a-chat-app-in-python-f6783a9ac170
